@@ -1,4 +1,4 @@
-function myFunction() {
+function delete_func() {
   var results = ['〇','×'];
   
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();

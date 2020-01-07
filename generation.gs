@@ -1,4 +1,4 @@
-function myFunction() {
+function generate_func() {
   var results = ['〇','×'];
   
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
